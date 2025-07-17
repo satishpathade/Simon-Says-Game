@@ -5,6 +5,24 @@ Click the buttons in the correct sequence as the pattern grows with each level!
 
 ---
 
+## How to Play
+
+1. **Start the Game:**  
+   Press any key to begin.
+
+2. **Watch the Sequence:**  
+   The game will flash a colored box. Remember the order.
+
+3. **Repeat the Sequence:**  
+   Click the boxes in the same order as shown.
+
+4. **Advance Levels:**  
+   Each level adds one more color to the sequence. Repeat the full pattern each time.
+
+5. **Game Over:**  
+   If you click the wrong box, the game ends and shows your score. Press any key to restart.
+
+
 ##  Screenshot
 [Simon Says Game Screenshot ](img/screenshot.png)
 
@@ -35,15 +53,15 @@ Click the buttons in the correct sequence as the pattern grows with each level!
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/simon-says-game.git
-cd simon-says-game
+git clone https://github.com/satishpathade/Simon-Says-Game.git
+cd Simon-Says-Game
 # Then open index.html in your browser
 
 ## About Me
 
-Hi, I'm **Satish Pathade** — an aspiring **Full-Stack Developer, **Cloud Computing**, and **DevOps**.
+Hi, I'm Satish Pathade — an aspiring Full-Stack Developer passionate about Cloud Computing and DevOps.
 
-I'm actively building projects like this one to sharpen my development skills, improve my portfolio, and prepare for full-time developer roles.
+I'm actively building real-world projects like this to enhance my development skills, grow my portfolio, and get ready for a full-time role in tech. Each project helps me learn, experiment, and move closer to becoming a well-rounded, industry-ready developer.
 
 ---
 

@@ -68,7 +68,7 @@ function checkAns(idx) {
 // button click by user
 function btnPress() {
     let btn = this;
-    btnFlash(btn);  
+    btnFlash(btn);
 
     let userColor = btn.getAttribute("id");
     userSeq.push(userColor);

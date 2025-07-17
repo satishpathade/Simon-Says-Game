@@ -1,28 +1,35 @@
+/* Universal selector */
 * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
 
+/* Main container */
 .main-container {
     text-align: center;
 }
 
+/* Game title (head) */
 .head {
     margin-top: 20px;
-     font-family: sans-serif;
-}
-h3{
-    margin-top: 15px;
-    font-family:'Lucida Sans';
+    font-family: sans-serif;
 }
 
+/* Instructions (h3) */
+h3 {
+    margin-top: 15px;
+    font-family: 'Lucida Sans';
+}
+
+/* Game board container */
 .main-box {
     display: flex;
     justify-content: center;
     gap: 1rem;
 }
 
+/* Color box */
 .box {
     height: 200px;
     width: 200px;
@@ -31,28 +38,34 @@ h3{
     box-shadow: 2px 2px 6px black;
 }
 
+/* Box hover effect */
 .box:hover {
     transition: 400ms;
     cursor: pointer;
     box-shadow: 5px 5px 7px black;
 }
 
+/* Red box */
 .red {
     background-color: #ea0d8e;
 }
 
+/* Orange box */
 .orange {
     background-color: #ff9102;
 }
 
+/* Green box */
 .green {
     background-color: #048f61;
 }
 
+/* Blue box */
 .blue {
     background-color: #25a6e7;
 }
-.flash{
+
+/* Flash animation */
+.flash {
     background-color: #ffffff;
 }
-
