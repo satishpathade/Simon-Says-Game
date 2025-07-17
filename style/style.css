@@ -32,7 +32,7 @@ h3{
 }
 
 .box:hover {
-    transition: 500ms;
+    transition: 400ms;
     cursor: pointer;
     box-shadow: 5px 5px 7px black;
 }
